@@ -21,6 +21,12 @@ module.exports = {
         moss: '#5a8245',
         'pop': '#779CAB'
       },
+      spacing: {
+        '5/4': '125%',
+      },
+      maxWidth: {
+        '4/5': '80%',
+      },
       animation: {
         'spin-slow': 'spin 60s linear infinite',
       }
