@@ -15,11 +15,17 @@ module.exports = {
         },
         'grass': {
           'light': '#5FAD56',
-          DEFAULT: '#065f46',
+          DEFAULT: '#065F46',
           'dark': '#33602E'
         },
-        moss: '#5a8245',
-        'pop': '#779CAB'
+        moss: '#598144',
+        pop: '#779CAB'
+      },
+      dropShadow: {
+        'upsm':	[
+          '0 -1px 2px rgb(0 0 0 / 0.1)',
+          '0 -1px 1px rgb(0 0 0 / 0.06)'
+        ]
       },
       spacing: {
         '5/4': '125%',
